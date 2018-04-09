@@ -15,4 +15,4 @@
     Shows: cost, Amazon cut, ROI etc...
 
 ## UI:
-Bootstrap -> formatting
+- Bootstrap -> formatting
